@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/survival-donation/static/css/main.98001f28.css",
+    "main.js": "/survival-donation/static/js/main.f50529c2.js",
+    "static/js/453.2c46f2b2.chunk.js": "/survival-donation/static/js/453.2c46f2b2.chunk.js",
+    "index.html": "/survival-donation/index.html",
+    "main.98001f28.css.map": "/survival-donation/static/css/main.98001f28.css.map",
+    "main.f50529c2.js.map": "/survival-donation/static/js/main.f50529c2.js.map",
+    "453.2c46f2b2.chunk.js.map": "/survival-donation/static/js/453.2c46f2b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98001f28.css",
+    "static/js/main.f50529c2.js"
+  ]
+}
